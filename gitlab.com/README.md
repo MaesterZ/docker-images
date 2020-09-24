@@ -9,7 +9,7 @@ Base: Ubuntu 18.04 LTS
 Tools:
 * [curl](https://curl.haxx.se/)
 * [jq](https://stedolan.github.io/jq/)
-* [Docker](https://docs.docker.com/engine/install/ubuntu/)
-* [Kubernetes CLI](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
-* [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.htmliam )
-* [AWS IAM authenticator](https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html)
+* [Docker](https://docs.docker.com/engine//)
+* [Kubernetes CLI](https://kubernetes.io/docs/reference/kubectl/)
+* [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+* [AWS IAM authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator)
