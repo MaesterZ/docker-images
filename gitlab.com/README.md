@@ -1,8 +1,8 @@
 # GitLab CI/CD docker image
 
-To use with gitlab.com public shared runners, be careful of your quota ;)
+To use with [GitLab](https://gitlab.com) public shared runners, be careful with your quota ;)
 
-More information https://docs.gitlab.com/ee/user/gitlab_com/index.html#linux-shared-runners
+More information https://docs.gitlab.com/ce/user/gitlab_com/index.html#linux-shared-runners
 
 Base: Ubuntu 18.04 LTS
 
