@@ -14,6 +14,7 @@ RUN export DEBIAN_FRONTEND=noninteractive \
     ca-certificates \
     curl \
     gnupg \
+    jq \
     unzip \
  && apt-get autoremove -y \
  && apt-get clean \

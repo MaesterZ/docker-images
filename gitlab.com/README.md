@@ -7,7 +7,8 @@ More information https://docs.gitlab.com/ce/user/gitlab_com/index.html#linux-sha
 Base: Ubuntu 18.04 LTS
 
 Tools:
-
+* [curl](https://curl.haxx.se/)
+* [jq](https://stedolan.github.io/jq/)
 * [Docker](https://docs.docker.com/engine/install/ubuntu/)
 * [Kubernetes CLI](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.htmliam )
