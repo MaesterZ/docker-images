@@ -4,7 +4,9 @@ To use with [GitLab](https://gitlab.com) public shared runners, be careful with 
 
 More information https://docs.gitlab.com/ce/user/gitlab_com/index.html#linux-shared-runners
 
-Base: Ubuntu 18.04 LTS
+Docker Hub: https://hub.docker.com/repository/docker/misterz/gitlab.com
+
+Base: Ubuntu 20.04 LTS
 
 Tools:
 * [curl](https://curl.haxx.se/)
